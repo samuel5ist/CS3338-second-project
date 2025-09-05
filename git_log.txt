@@ -1,0 +1,70 @@
+commit 10b47392774ad0bd36a73c15f833b226b4672471
+Merge: 3cddbf2 e94b01b
+Author: samuel5ist <samul5ist@gmail.com>
+Date:   Thu Sep 4 21:46:20 2025 -0700
+
+    Resolved merge conflict
+
+commit 3cddbf2b047db19b4e1480e74a71e21fe2075e33
+Author: samuel5ist <samul5ist@gmail.com>
+Date:   Thu Sep 4 21:40:35 2025 -0700
+
+    Added my favorite games
+
+commit e94b01b0717912adfc5cec710c37ab68ce68b1da
+Author: samuel5ist <samul5ist@gmail.com>
+Date:   Thu Sep 4 21:38:44 2025 -0700
+
+    Added my favorite food
+
+commit 391db6bf83613e389f26127693e9195fa52e7519
+Author: samuel5ist <samul5ist@gmail.com>
+Date:   Thu Sep 4 21:31:25 2025 -0700
+
+    added my favorite games
+
+commit ddb85c8012876ff16bf4d8fc67f7cdc9aede9728
+Author: samuel5ist <samul5ist@gmail.com>
+Date:   Thu Sep 4 21:25:25 2025 -0700
+
+    added my favorite character
+
+commit f453c2b976a805cbbb3abd9eed19e63738944346
+Merge: bf742c5 89f77c7
+Author: samuel5ist <samul5ist@gmail.com>
+Date:   Thu Sep 4 21:17:05 2025 -0700
+
+    erge branch 'main' of https://github.com/samuel5ist/CS3338-second-project
+
+commit bf742c55c8cba2b98c8fed80f7be7be97439c407
+Author: samuel5ist <samul5ist@gmail.com>
+Date:   Thu Sep 4 21:15:44 2025 -0700
+
+    Added Readme.md
+
+commit 89f77c7f49425a626c048b69dc09f5a44a470644
+Merge: 1d2bfc0 0cd9c15
+Author: Rabi <samul5ist@gmail.com>
+Date:   Thu Sep 4 21:10:22 2025 -0700
+
+    Merge pull request #1 from samuel5ist/info-fill
+    
+    filled blanks
+
+commit 0cd9c153920cbc2194be12739e542fdf6221f33c
+Author: samuel5ist <samul5ist@gmail.com>
+Date:   Thu Sep 4 21:01:58 2025 -0700
+
+    filled blanks
+
+commit 38a5bc620b33cc5cc30dbb4b19d40770144c398c
+Author: samuel5ist <samul5ist@gmail.com>
+Date:   Thu Sep 4 20:36:16 2025 -0700
+
+    Filled the blanks
+
+commit 1d2bfc0c7ca5c63bb12bd6add9fed720c852ae70
+Author: JValenzuela1 <74166160+JValenzuela1@users.noreply.github.com>
+Date:   Wed Aug 28 01:13:39 2024 -0700
+
+    Added index.html
